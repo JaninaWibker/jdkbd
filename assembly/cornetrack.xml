@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/Users/jannik/Desktop/projects/cornetrack/corne-cherry.sch</source>
-    <date>2020 September 28, Monday 20:50:08</date>
+    <source>/Users/jannik/Desktop/projects/cornetrack/cornetrack.sch</source>
+    <date>2020 September 29, Tuesday 15:19:30</date>
     <tool>Eeschema (5.1.6-0-10_14)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>Corne Cherry</title>
-        <company>foostan</company>
-        <rev>3.0</rev>
-        <date>2020-07-20</date>
-        <source>corne-cherry.sch</source>
-        <comment number="1" value=""/>
+        <title>cornetrack</title>
+        <company>jannikwibker</company>
+        <rev>1.0</rev>
+        <date>2020-09-10</date>
+        <source>cornetrack.sch</source>
+        <comment number="1" value="based on crkbd / corne by foostan"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>

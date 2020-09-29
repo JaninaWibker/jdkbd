@@ -4,11 +4,11 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "Corne Cherry"
-Date "2020-07-20"
-Rev "3.0"
-Comp "foostan"
-Comment1 ""
+Title "cornetrack"
+Date "2020-09-10"
+Rev "1.0"
+Comp "jannikwibker"
+Comment1 "based on crkbd / corne by foostan"
 Comment2 ""
 Comment3 ""
 Comment4 ""
