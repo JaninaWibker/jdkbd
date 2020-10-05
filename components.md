@@ -7,10 +7,10 @@
 | PCB                       | 2         | jlcpcb allows min. order quantity of 5pc | ~10€/pc | - |
 | Bottom plate              | 2         | jlcpcb allows min. order quantity of 5pc | ~4€/pc  | - |
 | Top plate                 | 2         | jlcpcb allows min. order quantity of 5pc | ~4€/pc  | - |
-| ProMicro                  | 2         | - | 7€/pc   | [ebay](https://www.ebay.de/itm/Arduino-Pro-Micro-5V-16MHz-Leonardo-ATMega32U4-32k-EntwicklungsBoard-microUSB/172093871231?hash=item281198147f:g:7TwAAOSw1T1cUxpT) |
+| ProMicro                  | 2         | - | 7€/pc   | [ebay](https://www.ebay.de/itm/Pro-Micro-kompatibel-ATmega32U4-5V-Micro-USB-Board-Arduino-16MHz-Leonardo/253565177853) |
 | ProMicro protective plate | 1         | need 2 when not using trackpoint | 2€/pc   | [keyhive](https://keyhive.xyz/shop/corne-helidox-oled-acrylic-covers) |
 | Kailh hot swap sockets    | 48        | - | \$0.10/pc | [kbdfans](https://kbdfans.com/products/mechanical-keyboard-switches-kailh-pcb-socket) |       |
-| LEDs                      | 48        | SK6812 3535; will most likely destroy a few; better to buy a bit more | \$10/100pc | [keyhive](https://keyhive.xyz/shop/cornehelidox-rgb-leds) |
+| LEDs                      | 48        | SK6812 3535; will most likely destroy a few; better to buy a bit more | \$10/100pc | [aliexpress](https://www.aliexpress.com/item/32623583544.html) |
 | Switches                  | 48        | choose yourself | - | - |
 | Keycaps                   | 48 (1u)   | choose yourself | - | - |
 | TRRS jack                 | 2         | - | \$0.80/10pc | [aliexpress](https://www.aliexpress.com/item/33029465106.html) |

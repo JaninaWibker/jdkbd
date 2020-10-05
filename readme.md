@@ -16,9 +16,9 @@ The main differences between the corne and the jade are that:
   supported by the corne-cherry version (which is also not reversible)
 - corne has more case options available, the jade currently only has "pcb case"
 
-## Getting the jade
+## Getting the keyboard
 
-the current method to getting a jade keyboard is letting it be manufactured by jlcpcb, pcbway or a
+The current method to getting a jade keyboard is letting it be manufactured by jlcpcb, pcbway or a
 different pcb manufacturer. There are not kits available.
 
 > Almost all pcb manufacturers have a minimum order quantity of 5pc; getting 5 times the pieces you
@@ -34,10 +34,11 @@ The full list can be found [here](/components.md) along with some cost estimates
 
 Build instructions can be found [here](/build-instructions.md).
 
-## Modifying the jade
+## Modifying the keyboard
 
-The jade was designed in [KiCad](https://https://kicad-pcb.org/) and uses some of
-[foostan's footprints / symbols](https://github.com/foostan/kbd) for custom keyboards.
+The keyboard was designed in [KiCad](https://https://kicad-pcb.org/) and uses some of
+[foostan's footprints / symbols](https://github.com/foostan/kbd) for custom keyboards, as well as a few
+standard KiCad libraries (power & led).
 
 These should be directly available when cloning the repo **with submodules**. This can be done by
 using
@@ -55,6 +56,24 @@ git submodule update --init --recursive
 A few beginner mistakes I made / faced are:
 - not working with eeschema and jumping straight into pcbnew (the pcb designer)
 - not caring about aligning things to the grid (KiCad really likes it's grid)
+
+Make sure that the paths for the additional symbols and footprints are configured correctly. It should
+look something like this:
+
+footprints: 
+
+| nickname | library path |
+| -------- | ------------ |
+| kbd      | `${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty` |
+| logo     | `${KIPRJMOD}/../logo-footprints` |
+
+symbols:
+
+| nickname | library path |
+| -------- | ------------ |
+| kbd      | `${KIPRJMOD}/kbd/kicad-symbols/kbd.lib` |
+| power    | `${KIPRJMOD}/libraries/kicad-symbols/power.lib` |
+| LED      | `${KIPJRMOD}/libraries/kicad-symbols/LED.lib` |
 
 When using KiCad 5.1.6 the pick and place file (also called .pos file) might be incorrect. Using
 later versions will probably fix this as well as prior versions as this is a bug that was introduced

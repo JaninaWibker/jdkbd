@@ -4,9 +4,9 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "cornetrack"
+Title "jade"
 Date "2020-09-10"
-Rev "1.0"
+Rev "1.1"
 Comp "jannikwibker"
 Comment1 "based on crkbd / corne by foostan"
 Comment2 ""
