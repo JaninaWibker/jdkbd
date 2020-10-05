@@ -6,8 +6,8 @@ The Jade keyboard is a split 40% ortholinear mechanical keyboard (*that's a lot 
 **TODO**: add pictures here
 
 The whole project is based on the [corne keyboard](https://github.com/foostan/crkbd) by foostan but
-has undergone many modifications. Still, a lot of work has been saved duo to the previous works done
-by foostan (*thanks a lot*).
+has undergone many modifications. Still, a lot of work has been saved duo to the work done
+by foostan.
 
 The main differences between the corne and the jade are that:
 - corne has 4 less keys (44 vs 48; jade has a bottom row and thumb cluster while the corne only has
@@ -62,18 +62,18 @@ look something like this:
 
 footprints: 
 
-| nickname | library path |
-| -------- | ------------ |
-| kbd      | `${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty` |
-| logo     | `${KIPRJMOD}/../logo-footprints` |
+| nickname | library path                                    |
+| -------- | ----------------------------------------------- |
+| kbd      | `${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty`   |
+| logo     | `${KIPRJMOD}/../logo-footprints`                |
 
 symbols:
 
-| nickname | library path |
-| -------- | ------------ |
-| kbd      | `${KIPRJMOD}/kbd/kicad-symbols/kbd.lib` |
+| nickname | library path                                    |
+| -------- | ----------------------------------------------- |
+| kbd      | `${KIPRJMOD}/kbd/kicad-symbols/kbd.lib`         |
 | power    | `${KIPRJMOD}/libraries/kicad-symbols/power.lib` |
-| LED      | `${KIPJRMOD}/libraries/kicad-symbols/LED.lib` |
+| LED      | `${KIPRJMOD}/libraries/kicad-symbols/LED.lib`   |
 
 When using KiCad 5.1.6 the pick and place file (also called .pos file) might be incorrect. Using
 later versions will probably fix this as well as prior versions as this is a bug that was introduced
