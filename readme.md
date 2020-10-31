@@ -25,7 +25,7 @@ The main differences between the corne and the jade are that:
 ## Getting the keyboard
 
 The current method to getting a jade keyboard is letting it be manufactured by jlcpcb, pcbway or a
-different pcb manufacturer. There are not kits available.
+different pcb manufacturer. There are no kits available.
 
 > Almost all pcb manufacturers have a minimum order quantity of 5pc; getting 5 times the pieces you
 > need might still be cheaper than some other keyboard kits and you can possibly resell them.
