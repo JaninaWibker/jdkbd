@@ -8,7 +8,7 @@
 | Bottom plate              | 2         | jlcpcb allows min. order quantity of 5pc | ~4€/pc  | - |
 | Top plate                 | 2         | jlcpcb allows min. order quantity of 5pc | ~4€/pc  | - |
 | ProMicro                  | 2         | - | 7€/pc   | [ebay](https://www.ebay.de/itm/Pro-Micro-kompatibel-ATmega32U4-5V-Micro-USB-Board-Arduino-16MHz-Leonardo/253565177853) |
-| ProMicro protective plate | 1         | need 2 when not using trackpoint | 2€/pc   | [keyhive](https://keyhive.xyz/shop/corne-helidox-oled-acrylic-covers) |
+| ProMicro protective plate | 2         | one is used to lock trackpoint in place; needs additional holes | 2€/pc   | [keyhive](https://keyhive.xyz/shop/corne-helidox-oled-acrylic-covers) |
 | Kailh hot swap sockets    | 48        | - | \$0.10/pc | [kbdfans](https://kbdfans.com/products/mechanical-keyboard-switches-kailh-pcb-socket) |       |
 | LEDs                      | 48        | SK6812 3535; will most likely destroy a few; better to buy a bit more | \$10/100pc | [aliexpress](https://www.aliexpress.com/item/32623583544.html) |
 | Switches                  | 48        | choose yourself | - | - |
@@ -21,7 +21,7 @@
 | M2 Washers (M2x5x1mm)     | a few     | - | \$1/100pc | [aliexpress](https://www.aliexpress.com/item/33021883302.html) |
 | M2 Screws                 | a few | kit includes lot's of diff. screws | \$3.20/250pc | [aliexpress](https://www.aliexpress.com/item/10000188653527.html) |
 | rubber feet               | 8 or more |       | \$1/50pc | [aliexpress](https://www.aliexpress.com/item/4000266239818.html) |
-| TRS/TRRS cable            | 1         | many diff. options avaiable | 3€/pc | [keyhive](https://keyhive.xyz/shop/trrs-cable) |
+| TRS/TRRS cable            | 1         | many diff. options available | 3€/pc | [keyhive](https://keyhive.xyz/shop/trrs-cable) |
 | MicroUSB cable            | 1         | - | - | - |
 | Trackpoint module         | 1         | this needs to be extracted from an actual keyboard | \$11/pc | [aliexpress](https://www.aliexpress.com/item/32839727211.html) |
 
