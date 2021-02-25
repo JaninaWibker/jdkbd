@@ -9,7 +9,10 @@ The Jade keyboard is a split 40% ortholinear mechanical keyboard (*that's a lot 
 
 The red key represents the trackpoint [keyboard-layout-editor](http://www.keyboard-layout-editor.com/##@@_x:3&p=OEM&a:7%3B&=E&_x:6.5%3B&=I%3B&@_y:-0.75&x:2%3B&=W&_x:1%3B&=R&=T&_x:2.5%3B&=Y&=U&_x:1%3B&=O%3B&@_y:-0.75%3B&=&=Q&_x:10.5%3B&=P&=%3B&@_y:-0.5&x:3%3B&=D&_x:3.5&c=%23c45252&p=DSA&h2:1.25&l:true%3B&=&_x:2&c=%23cccccc&p=OEM%3B&=K%3B&@_y:-0.75&x:2%3B&=S&_x:1&n:true%3B&=F&=G&_x:2.5%3B&=H&_n:true%3B&=J&_x:1%3B&=L%3B&@_y:-0.75%3B&=&=A&_x:10.5%3B&=%5B&=%5D%3B&@_y:-0.5&x:3%3B&=C&_x:6.5%3B&=,%3B&@_y:-0.75&x:2%3B&=X&_x:1%3B&=V&=B&_x:2.5%3B&=N&=M&_x:1%3B&=.%3B&@_y:-0.75%3B&=&=Z&_x:10.5%3B&=-&=%3B&@_y:-0.25&x:2.75%3B&=&_x:7%3B&=%3B&@_y:-0.75%3B&=&_x:0.25%3B&=&_x:10%3B&=&=%3B&@_r:15&rx:7.25&ry:3.5&y:0.25&x:-2%3B&=%3B&@_y:-0.5&x:-3%3B&=%3B&@_ry:3.75&y:1&x:-2%3B&=%3B&@_r:-15&ry:3.5&y:0.25&x:1%3B&=%3B&@_y:-0.5&x:2%3B&=%3B&@_ry:3.75&y:1&x:1%3B&=)
 
-**TODO**: add pictures here
+<p align="center">
+  <img alt="jdkbd without trackpoint" src="./jdkbd.jpg" />
+  <span>jdkbd without trackpoint</span>
+</p>
 
 The whole project is based on the [corne keyboard](https://github.com/foostan/crkbd) by foostan but
 has undergone many modifications. Still, a lot of work has been saved duo to the work done
