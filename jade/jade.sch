@@ -7,7 +7,7 @@ Sheet 1 1
 Title "jade"
 Date "2020-09-10"
 Rev "1.1"
-Comp "jannikwibker"
+Comp "janina"
 Comment1 "based on crkbd / corne by foostan"
 Comment2 ""
 Comment3 ""

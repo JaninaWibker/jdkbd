@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/Users/jannik/Desktop/projects/cornetrack/cornetrack.sch</source>
+    <source>/Users/janina/Desktop/projects/cornetrack/cornetrack.sch</source>
     <date>2020 September 29, Tuesday 15:19:30</date>
     <tool>Eeschema (5.1.6-0-10_14)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>cornetrack</title>
-        <company>jannikwibker</company>
+        <company>janina</company>
         <rev>1.0</rev>
         <date>2020-09-10</date>
         <source>cornetrack.sch</source>
@@ -1486,13 +1486,13 @@
       <uri>/Library/Application Support/kicad/library/Connector_Generic.lib</uri>
     </library>
     <library logical="LED">
-      <uri>/Users/jannik/Desktop/projects/cornetrack/libraries/kicad-symbols/LED.lib</uri>
+      <uri>/Users/janina/Desktop/projects/cornetrack/libraries/kicad-symbols/LED.lib</uri>
     </library>
     <library logical="corne-cherry-rescue">
-      <uri>/Users/jannik/Desktop/projects/cornetrack/corne-cherry-rescue.lib</uri>
+      <uri>/Users/janina/Desktop/projects/cornetrack/corne-cherry-rescue.lib</uri>
     </library>
     <library logical="kbd">
-      <uri>/Users/jannik/Desktop/projects/cornetrack/kbd/kicad-symbols/kbd.lib</uri>
+      <uri>/Users/janina/Desktop/projects/cornetrack/kbd/kicad-symbols/kbd.lib</uri>
     </library>
   </libraries>
   <nets>
